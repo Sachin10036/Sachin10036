@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">I am passionate about robotics and Artificial intelligence and machine learning✨</h3>
+<h3 align="center">I am passionate about Robotics and Artificial Intelligence & Machine Learning✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10036&label=Profile%20views&color=0e75b6&style=flat" alt="sachin10036" /> </p>
 
